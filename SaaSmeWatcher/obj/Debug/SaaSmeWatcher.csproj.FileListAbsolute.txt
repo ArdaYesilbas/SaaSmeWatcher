@@ -1,0 +1,10 @@
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\obj\Debug\SaaSmeWatcher.csproj.AssemblyReference.cache
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\obj\Debug\SaaSmeWatcher.Properties.Resources.resources
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\obj\Debug\SaaSmeWatcher.SaaSmeWatcher.resources
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\obj\Debug\SaaSmeWatcher.csproj.GenerateResource.cache
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\obj\Debug\SaaSmeWatcher.csproj.CoreCompileInputs.cache
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\bin\Debug\SaaSmeWatcher.exe.config
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\bin\Debug\SaaSmeWatcher.exe
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\bin\Debug\SaaSmeWatcher.pdb
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\obj\Debug\SaaSmeWatcher.exe
+C:\Users\arday\source\repos\SaaSmeWatcher\SaaSmeWatcher\obj\Debug\SaaSmeWatcher.pdb
